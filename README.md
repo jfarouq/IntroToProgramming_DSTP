@@ -10,4 +10,4 @@ I know there are some security and performance issues here. I often first sacrif
 
 This code assumes a LAMP environment: Linux, Apache, MySQL and PHP. We assume a very specifically setup database with specific tables. There is a file here named store_setup.php which will help you setup your store. We host on Linode.
 
-If you have any suggestions or ideas for improvement, please email Bill MacKenty, bmackenty@aswarsaw.org or bmackenty@gmail.com, or open an issue.  
+If you have any suggestions or ideas for improvement, please email Joey Farouq, jfarouq@aswarsaw.org or joeyfarouq@gmail.com, or open an issue.  
